@@ -68,3 +68,26 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 - Last week's goal was exploration and refinement of goals. Now that this is complete, the next step is to figure out most efficient cadence to integrate the two components of my project (general learning through structured coursework and challenge problems to build fluency) into the four hours I have allocated each week.
 
 </details>
+
+#### Week 3 (6/3/24-6/9/24)
+
+<details>
+
+**What did you do last week?**
+  
+- Drafted, revised, and submitted Project Plan for review.
+- Posted update to personal Github page.
+
+**What do you plan to do this week?**
+
+- Get back on track with Exercism puzzles; for the Week 3-4 recommended exercises, I got "Log Levels" and "Last Will" done last week; I still need to get the other 3 and as many additional ones in Strings, Loops, and Numbers done as possible to stay on track for Primary Goal 1 in my project proposal.
+
+**Are there any impediments in your way?** 
+
+- I still need to fix the syntax issue on my project website before it's due.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+
+-Although I'm dedicating the required amount of time to this class, I'm not allocating long enough daily time blocks to be maximally effective. In my current 1-1.5h increments, if I hit one major blocker or knowledge gap, the session is over before I can finish troubleshooting and complete a milestone.
+-Starting next week, I plan to trial one contiguous 3 hour block for major project work and a 1.5 hour block for class requirements (peer reviews, drafting and posting progress and feedback) and benchmark my progress on project objectives against the average rate for Weeks 2-3.
+</details>
