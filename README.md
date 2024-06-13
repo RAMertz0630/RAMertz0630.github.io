@@ -91,3 +91,26 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 -Although I'm dedicating the required amount of time to this class, I'm not allocating long enough daily time blocks to be maximally effective. In my current 1-1.5h increments, if I hit one major blocker or knowledge gap, the session is over before I can finish troubleshooting and complete a milestone.
 -Starting next week, I plan to trial one contiguous 3 hour block for major project work and a 1.5 hour block for class requirements (peer reviews, drafting and posting progress and feedback) and benchmark my progress on project objectives against the average rate for Weeks 2-3.
 </details>
+
+#### Week 4 (6/10/24-6/17/24)
+
+<details>
+
+**What did you do last week?**
+- Reviewed all 4 assigned Project Plans.
+- Attempted Exercism problem "reverse string" and hit a blocker.
+- Posted update to personal Github page.
+
+**What do you plan to do this week?**
+- Revise Project Proposal (too ambitious for allotted time given learning time)
+- Review Sections 7 (Arrays and Vectors) and 10 (Characters and Strings)
+- Return to Exercism Puzzles and solve all incomplete Puzzles recommended for Weeks 2-6.
+
+**Are there any impediments in your way?**
+- I need to fix the syntax issue on my project website this week.
+- I have more of a learning curve than I thought for modern C++ coming out of CSPB 1300; I need to increase the amount of structured study time in my Udemy course and decrease the amount of target Exercises I plan to get done each week until I have a better grasp of header files and how to use items from the std library without "using namespace std".
+
+**Reflection on the process you used last week, how can you make the process work better?**
+- Using a contiguous 3 hour block for major project work and a 1.5 hour block for class requirements (peer reviews, drafting and posting progress and feedback) worked really well this week. I intend to continue this cadence for the foreseeable future.
+  
+</details>
