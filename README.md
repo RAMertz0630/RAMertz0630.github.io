@@ -114,3 +114,29 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 - Using a contiguous 3 hour block for major project work and a 1.5 hour block for class requirements (peer reviews, drafting and posting progress and feedback) worked really well this week. I intend to continue this cadence for the foreseeable future.
   
 </details>
+
+#### Week 5 (6/17/24-6/24/24)
+
+<details>
+
+**What did you do last week?** 
+- Reviewed feedback on my project plan.
+- Devoted more time to structured learning; reviewed sections 1-10 in my Udemy course, with an emphasis on Sections 7 (Arrays and Vectors) and 10 (Characters and Strings)
+- Finished Week 1-2 recommended exercise "Making the Grade" after reviewing vectors.
+- Posted update to personal Github page.
+
+**What do you plan to do this week?**
+- Get unstuck on all recommended Exercises requiring std::string methods (Phone Number, Word Count, Matching Brackets)
+- On own time, review Udemy syllabus through Section 13 (OOP - Classes)
+- After Section 13, attempt all recommended Exercises that involve classes (Election Day & Trolls from Week 1-2, Alien Game, Dr. Data from Week 3-4)
+
+**Are there any impediments in your way?**
+- A lot of Exercises on my to-do list require a better understanding of std::string member functions in modern C++. I'm closing the knowledge gap this week.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+- I got a lot of good feedback on my project proposal. I really appreciate the advice to prioritize quality of answers over quantity of exercises completed and have amended my project plan and weekly schedule accordingly:
+  - Finishing and discussing Taylor's assigned biweekly exercises is now higher priority than completing a certain number of exercises by a given date.
+  - My workflow now starts with attempting the exercises in order of assignment and pivoting to my Udemy course and textbook reading when I hit a blocker. Otherwise, I'm doing the Udemy work on my own time; there's not enough time in the semester to finish Exercises and complete a 40h structured class while "on the clock", but I still think both are important and should be done.
+  - Any extra time is spent completing exercises in assigned concept areas that haven't been recommended yet.
+    
+</details>
