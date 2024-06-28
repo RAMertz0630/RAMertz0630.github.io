@@ -153,3 +153,30 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
   </ul>
     
 </details>
+
+#### Week 6 (6/24/24-7/1/24)
+
+<details>
+<br>
+<b>What did you do last week?</b><br>
+<ul>
+  <li>Reviewed Udemy Unit 10 (Characters and Strings)</li>
+  <li>Fully completed two Exercism exercises: Atbash Cipher and the recommended problem Matching Brackets</li>
+  <li>Partially completed the recommended problem Phone Number (string parsing works; error handling tests beyond my current level)</li>
+  <li>Researched HTML tags, fixed formatting issues on personal Github page.</li>
+  <li>Posted update to personal Github page.</li>
+</ul>
+<b>What do you plan to do this week?</b><br>
+<ul>
+  <li>On own time, finish Section 13 (OOP - Classes)</li>
+  <li>Attempt all recommended Exercises that involve classes (Election Day & Trolls from Week 1-2, Alien Game, Dr. Data from Week 3-4)</li>
+</ul>
+  <b>Are there any impediments in your way?</b><br>
+<ul>
+  <li>I'm still finding certain aspects of the Exercism UI unintuitive, but I'm learning a lot about unit tests and error handling through the struggle.</li>
+</ul>
+<b>Reflection on the process you used last week, how can you make the process work better?</b><br>
+<ul>
+  <li>Prioritizing quality of answers over quantity of exercises completed helped with time management.</li>
+</ul>
+</details>
