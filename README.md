@@ -27,17 +27,17 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 
 **Progress to Date**
 
-- Reviewed all orientation materials on Moodle
-- Created personal Github page to publish status updates
+- Reviewed all orientation materials on Moodle<br>
+- Created personal Github page to publish status updates<br>
 
 **Goals for Next Week**
 
-- My current objective is to define my primary goal for the summer: am I mainly building fluency with C++ to limit the risk of juggling unfamiliar coding frameworks and new math concepts simultaneously in the fall, or am I pursuing a dual purpose project that will accomplish the former goal and teach me something useful that I can carry forward onto the data science track?
+- My current objective is to define my primary goal for the summer: am I mainly building fluency with C++ to limit the risk of juggling unfamiliar coding frameworks and new math concepts simultaneously in the fall, or am I pursuing a dual purpose project that will accomplish the former goal and teach me something useful that I can carry forward onto the data science track?<br>
 
 **Successess & Challenges**
 
-- Setting up a Github page was new to me and entailed a bit of a learning curve.
-- All of my prior data science/comp bio experience has only involved Python and R; I'm currently doing some exploratory research to understand the utility of delving deeply into C++ if I want to stay on this track.
+- Setting up a Github page was new to me and entailed a bit of a learning curve.<br>
+- All of my prior data science/comp bio experience has only involved Python and R; I'm currently doing some exploratory research to understand the utility of delving deeply into C++ if I want to stay on this track.<br>
 
 </details>
 
@@ -47,25 +47,25 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 
 **What did you do last week?**
 
-- Created personal github page
-- Researched data science applications of C++ to refine primary goal (general fluency vs specific project).
-- Determined that my primary goal is to build general fluency in C++ in preparation for fall enrollment in CSPB 2270 rather than to pursue a specific data science-facing project.
-- Joined Exercism; completed first 3 exercises recommended by Taylor and all prerequisite learning mode exercises to access them.
-- Identified a Udemy course to reinforce and move beyond concepts covered in 1300 
+- Created personal github page<br>
+- Researched data science applications of C++ to refine primary goal (general fluency vs specific project).<br>
+- Determined that my primary goal is to build general fluency in C++ in preparation for fall enrollment in CSPB 2270 rather than to pursue a specific data science-facing project.<br>
+- Joined Exercism; completed first 3 exercises recommended by Taylor and all prerequisite learning mode exercises to access them.<br>
+- Identified a Udemy course to reinforce and move beyond concepts covered in 1300<br>
 
 **What do you plan to do this week?**
 
-- Finish all remaining week 1-2 Exercism problems recommended by Taylor (Grade, Interest, Election, Trolls), join Sunday office hour to discuss solutions.
-- Start on Taylor's recommended Exercism problems for week 3-4 as soon as they're posted.
-- Skim/Quickly review exercises in Udemy curriculum on variables, statements, control flow, strings, and functions; delve deeply on arrays/vectors and pointers if time permits. Make this the primary goal of week 4 if not.
+- Finish all remaining week 1-2 Exercism problems recommended by Taylor (Grade, Interest, Election, Trolls), join Sunday office hour to discuss solutions.<br>
+- Start on Taylor's recommended Exercism problems for week 3-4 as soon as they're posted.<br>
+- Skim/Quickly review exercises in Udemy curriculum on variables, statements, control flow, strings, and functions; delve deeply on arrays/vectors and pointers if time permits. Make this the primary goal of week 4 if not.<br>
 
 **Are there any impediments in your way?**
-- Formatting issues with personal page; the markdown preview (MD_Preview.png) looks fine, but visiting the URL itself (Visiting_URL.png) shows that the formatting on the markdown text that I have collapsed in a details field is lost and creates gibberish.
-- A quick search revealed that this might be an issue with translating Markdown to HTML. Beyond that, I don't know how to fix it and it's a time-unbound problem separate from my primary goal of spending 4h each week getting better at C++, so I intend to devote some spare time on evenings and weekends to tackling it before websites are due.
+- Formatting issues with personal page; the markdown preview (MD_Preview.png) looks fine, but visiting the URL itself (Visiting_URL.png) shows that the formatting on the markdown text that I have collapsed in a details field is lost and creates gibberish.<br>
+- A quick search revealed that this might be an issue with translating Markdown to HTML. Beyond that, I don't know how to fix it and it's a time-unbound problem separate from my primary goal of spending 4h each week getting better at C++, so I intend to devote some spare time on evenings and weekends to tackling it before websites are due.<br>
 
 **Reflection on the process you used last week, how can you make the process work better?**
 
-- Last week's goal was exploration and refinement of goals. Now that this is complete, the next step is to figure out most efficient cadence to integrate the two components of my project (general learning through structured coursework and challenge problems to build fluency) into the four hours I have allocated each week.
+- Last week's goal was exploration and refinement of goals. Now that this is complete, the next step is to figure out most efficient cadence to integrate the two components of my project (general learning through structured coursework and challenge problems to build fluency) into the four hours I have allocated each week.<br>
 
 </details>
 
@@ -75,21 +75,21 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 
 **What did you do last week?**
   
-- Drafted, revised, and submitted Project Plan for review.
-- Posted update to personal Github page.
+- Drafted, revised, and submitted Project Plan for review.<br>
+- Posted update to personal Github page.<br>
 
 **What do you plan to do this week?**
 
-- Get back on track with Exercism puzzles; for the Week 3-4 recommended exercises, I got "Log Levels" and "Last Will" done last week; I still need to get the other 3 and as many additional ones in Strings, Loops, and Numbers done as possible to stay on track for Primary Goal 1 in my project proposal.
+- Get back on track with Exercism puzzles; for the Week 3-4 recommended exercises, I got "Log Levels" and "Last Will" done last week; I still need to get the other 3 and as many additional ones in Strings, Loops, and Numbers done as possible to stay on track for Primary Goal 1 in my project proposal.<br>
 
 **Are there any impediments in your way?** 
 
-- I still need to fix the syntax issue on my project website before it's due.
+- I still need to fix the syntax issue on my project website before it's due.<br>
 
 **Reflection on the process you used last week, how can you make the process work better?**
 
--Although I'm dedicating the required amount of time to this class, I'm not allocating long enough daily time blocks to be maximally effective. In my current 1-1.5h increments, if I hit one major blocker or knowledge gap, the session is over before I can finish troubleshooting and complete a milestone.
--Starting next week, I plan to trial one contiguous 3 hour block for major project work and a 1.5 hour block for class requirements (peer reviews, drafting and posting progress and feedback) and benchmark my progress on project objectives against the average rate for Weeks 2-3.
+-Although I'm dedicating the required amount of time to this class, I'm not allocating long enough daily time blocks to be maximally effective. In my current 1-1.5h increments, if I hit one major blocker or knowledge gap, the session is over before I can finish troubleshooting and complete a milestone.<br>
+-Starting next week, I plan to trial one contiguous 3 hour block for major project work and a 1.5 hour block for class requirements (peer reviews, drafting and posting progress and feedback) and benchmark my progress on project objectives against the average rate for Weeks 2-3.<br>
 </details>
 
 #### Week 4 (6/10/24-6/17/24)
@@ -97,21 +97,21 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 <details>
 
 **What did you do last week?**
-- Reviewed all 4 assigned Project Plans.
-- Attempted Exercism problem "reverse string" and hit a blocker.
-- Posted update to personal Github page.
+- Reviewed all 4 assigned Project Plans.<br>
+- Attempted Exercism problem "reverse string" and hit a blocker.<br>
+- Posted update to personal Github page.<br>
 
 **What do you plan to do this week?**
-- Revise Project Proposal (too ambitious for allotted time given learning time)
-- Review Sections 7 (Arrays and Vectors) and 10 (Characters and Strings)
-- Return to Exercism Puzzles and solve all incomplete Puzzles recommended for Weeks 2-6.
+- Revise Project Proposal (too ambitious for allotted time given learning time)<br>
+- Review Sections 7 (Arrays and Vectors) and 10 (Characters and Strings)<br>
+- Return to Exercism Puzzles and solve all incomplete Puzzles recommended for Weeks 2-6.<br>
 
 **Are there any impediments in your way?**
-- I need to fix the syntax issue on my project website this week.
-- I have more of a learning curve than I thought for modern C++ coming out of CSPB 1300; I need to increase the amount of structured study time in my Udemy course and decrease the amount of target Exercises I plan to get done each week until I have a better grasp of header files and how to use items from the std library without "using namespace std".
+- I need to fix the syntax issue on my project website this week.<br>
+- I have more of a learning curve than I thought for modern C++ coming out of CSPB 1300; I need to increase the amount of structured study time in my Udemy course and decrease the amount of target Exercises I plan to get done each week until I have a better grasp of header files and how to use items from the std library without "using namespace std".<br>
 
 **Reflection on the process you used last week, how can you make the process work better?**
-- Using a contiguous 3 hour block for major project work and a 1.5 hour block for class requirements (peer reviews, drafting and posting progress and feedback) worked really well this week. I intend to continue this cadence for the foreseeable future.
+- Using a contiguous 3 hour block for major project work and a 1.5 hour block for class requirements (peer reviews, drafting and posting progress and feedback) worked really well this week. I intend to continue this cadence for the foreseeable future.<br>
   
 </details>
 
@@ -120,23 +120,23 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 <details>
 
 **What did you do last week?** 
-- Reviewed feedback on my project plan.
-- Devoted more time to structured learning; reviewed sections 1-10 in my Udemy course, with an emphasis on Sections 7 (Arrays and Vectors) and 10 (Characters and Strings)
-- Finished Week 1-2 recommended exercise "Making the Grade" after reviewing vectors.
-- Posted update to personal Github page.
+- Reviewed feedback on my project plan.<br>
+- Devoted more time to structured learning; reviewed sections 1-10 in my Udemy course, with an emphasis on Sections 7 (Arrays and Vectors) and 10 (Characters and Strings)<br>
+- Finished Week 1-2 recommended exercise "Making the Grade" after reviewing vectors.<br>
+- Posted update to personal Github page.<br>
 
 **What do you plan to do this week?**
-- Get unstuck on all recommended Exercises requiring std::string methods (Phone Number, Word Count, Matching Brackets)
-- On own time, review Udemy syllabus through Section 13 (OOP - Classes)
-- After Section 13, attempt all recommended Exercises that involve classes (Election Day & Trolls from Week 1-2, Alien Game, Dr. Data from Week 3-4)
+- Get unstuck on all recommended Exercises requiring std::string methods (Phone Number, Word Count, Matching Brackets)<br>
+- On own time, review Udemy syllabus through Section 13 (OOP - Classes)<br>
+- After Section 13, attempt all recommended Exercises that involve classes (Election Day & Trolls from Week 1-2, Alien Game, Dr. Data from Week 3-4)<br>
 
 **Are there any impediments in your way?**
-- A lot of Exercises on my to-do list require a better understanding of std::string member functions in modern C++. I'm closing the knowledge gap this week.
+- A lot of Exercises on my to-do list require a better understanding of std::string member functions in modern C++. I'm closing the knowledge gap this week.<br>
 
 **Reflection on the process you used last week, how can you make the process work better?**
-- I got a lot of good feedback on my project proposal. I really appreciate the advice to prioritize quality of answers over quantity of exercises completed and have amended my project plan and weekly schedule accordingly:
-  - Finishing and discussing Taylor's assigned biweekly exercises is now higher priority than completing a certain number of exercises by a given date.
-  - My workflow now starts with attempting the exercises in order of assignment and pivoting to my Udemy course and textbook reading when I hit a blocker. Otherwise, I'm doing the Udemy work on my own time; there's not enough time in the semester to finish Exercises and complete a 40h structured class while "on the clock", but I still think both are important and should be done.
-  - Any extra time is spent completing exercises in assigned concept areas that haven't been recommended yet.
+- I got a lot of good feedback on my project proposal. I really appreciate the advice to prioritize quality of answers over quantity of exercises completed and have amended my project plan and weekly schedule accordingly:<br>
+  - Finishing and discussing Taylor's assigned biweekly exercises is now higher priority than completing a certain number of exercises by a given date.<br>
+  - My workflow now starts with attempting the exercises in order of assignment and pivoting to my Udemy course and textbook reading when I hit a blocker.<br> Otherwise, I'm doing the Udemy work on my own time; there's not enough time in the semester to finish Exercises and complete a 40h structured class while "on the clock", but I still think both are important and should be done.<br>
+  - Any extra time is spent completing exercises in assigned concept areas that haven't been recommended yet.<br>
     
 </details>
