@@ -6,15 +6,40 @@ I'm a plant biologist with broad experience in molecular genetics, biochemistry,
 
 ### My coursework
 <details>
-  
-| Semester |           Course Name              |  Languages Utilized  |
-|---------:|------------------------------------|----------------------|
-|   Sp 24  |           Intro Comp Sci           |     Python, C++      |
-|   Sp 24  |        Discrete Structures         |        Python        |
-|   Su 24  |  Intro to Data Science Algorithms  |        Python        |
-|   Su 24  |      Information Visualization     |        Python        |
-|   Su 24  |      Professional Development      |         C++          |
-
+<br>
+<table>
+<tr>
+<th>Semester</th>
+<th>Course Name</th>
+<th>Languages Utilized</th>
+</tr>
+<tr>
+<td>Sp 24</td>
+<td>Intro Comp Sci</td>  
+<td>Python, C++</td>
+</tr>
+<tr>
+<td>Sp 24</td>
+<td>Discrete Structures</td>
+<td>Python</td>
+</tr>
+<tr>
+<td>Su 24</td>
+<td>Intro to Data Science Algorithms</td>
+<td>Python</td>
+</tr>
+<tr>
+<td>Su 24</td>
+<td>Information Visualization</td>
+<td>Python</td>
+</tr>
+<tr>
+<td>Su 24</td>
+<td>Professional Development</td>
+<td>C++</td>
+</tr>
+</table>
+<br>  
 </details>
 
 ### Summer 2024 Professional Development Status Updates
