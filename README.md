@@ -205,3 +205,30 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
   <li>Prioritizing quality of answers over quantity of exercises completed helped with time management.</li>
 </ul>
 </details>
+
+#### Week 7 (7/1/24-7/8/24)
+
+<details>
+<br>
+<b>What did you do last week?</b><br>
+<ul>
+  <li>Fully completed 6 Exercism puzzles related to strings, loops, and base conversion algorithms: "Protein Translation", "Rotational Cipher", "Bob", "Armstrong Numbers", "Eliud's Eggs", and "Trinary".</li>
+  <li>Published all solutions on Exercism and also created a Github repo containing my Exercism code for the semester.</li>
+  <li>Started working through Section 13 (OOP - Classes) of my Udemy course.</li>
+  <li>Posted update to personal Github page.</li>
+</ul>
+<b>What do you plan to do this week?</b><br>
+<ul>
+  <li>Fully complete all recommended Exercises that involve classes (Election Day & Trolls from Week 1-2, Alien Game, Dr. Data from Week 3-4)</li>
+  <li>Fully complete all learning path Exercises that involve number parsing (Luhn, Hexadecimal)</li>
+  <li>Continue my Udemy course on my own time (next unit after Classes is Operator Overloading).</li>
+</ul>
+  <b>Are there any impediments in your way?</b><br>
+<ul>
+  <li>Not this week; I feel like I cleared a major blocker in getting so many exercises done!</li>
+</ul>
+<b>Reflection on the process you used last week, how can you make the process work better?</b><br>
+<ul>
+  <li>Being more mentally flexible about what times of day constitute "own time" versus "coursework" helped me to be more productive. I focus best early in the morning, so using that time to learn new concepts "on my own time" and then being "on the clock" solving exercises in the evenings led to a really productive week without a big increase in hours spent.</li>
+</ul>
+</details>
