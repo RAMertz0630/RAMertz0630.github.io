@@ -206,7 +206,7 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 </ul>
 </details>
 
-#### Week 7 (7/1/24-7/8/24)
+#### Week 7 (7/1/24-7/7/24)
 
 <details>
 <br>
@@ -232,3 +232,29 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
   <li>Being more mentally flexible about what times of day constitute "own time" versus "coursework" helped me to be more productive. I focus best early in the morning, so using that time to learn new concepts "on my own time" and then being "on the clock" solving exercises in the evenings led to a really productive week without a big increase in hours spent.</li>
 </ul>
 </details>
+
+#### Week 8 (7/8/24-7/14/24)
+<details>
+<br>
+<b>What did you do last week?</b><br>
+<ul>
+  <li>Finished about half of Section 13 (OOP - Classes) in my Udemy course</li>
+  <li>Fully completed 1 Exercism puzzle related to classes: "Ellen's Alien Game"</li>
+  <li>Completed Learning Resources assignment by completing a LinkedIn Learning course on creating interactive visualizations with Plotly and Dash</li>
+  <li>Posted update to personal Github page.</li>  
+</ul>
+<b>What do you plan to do this week?</b>(Note: a lot of overlap with last week's plans; see impediments section)<br>
+<ul>
+  <li>Fully complete all remaining Exercises that involve classes (Election Day & Trolls from Week 1-2, Dr. Data from Week 3-4).</li>
+  <li>Fully complete all learning path Exercises that involve number parsing (Luhn, Hexadecimal).</li>
+  <li>Continue my Udemy course on my own time (next unit after Classes is Operator Overloading).</li>
+</ul>
+<b>Are there any impediments in your way?</b><br>
+<ul>
+  <li>Getting a lot of coding exercises done in a given week is contingent on a) Not having any other assignments due in CSPB 3112 that require "on-the-clock" time and b) Not having major projects or exams in CSPB 3022 or CSPB 4122 that compete for my "off-the-clock" time that I would otherwise spend on my Udemy course. Both blockers were in full effect this week and I didn't get many exercises done as a result.</li>
+</ul>
+<b>Reflection on the process you used last week, how can you make the process work better?</b><br>
+<ul>
+  <li>Only time can help with this blocker; by next week, my CSPB 3022 exam will be over and I won't be at peak workload on my CSPB 4122 project, so I'll have more "off-the-clock" time to work on skill development that I can use to spend my CSPB 3112 "on-the-clock" time on exercises.</li>
+</ul>
+
