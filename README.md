@@ -257,4 +257,32 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 <ul>
   <li>Only time can help with this blocker; by next week, my CSPB 3022 exam will be over and I won't be at peak workload on my CSPB 4122 project, so I'll have more "off-the-clock" time to work on skill development that I can use to spend my CSPB 3112 "on-the-clock" time on exercises.</li>
 </ul>
+</details>
+
+#### Week 9 (7/15/24-7/22/24)
+<details>
+<br>
+<b>What did you do last week?</b><br>
+<ul>
+<li>Finished remainder of Section 13 (OOP - Classes) in my Udemy course</li>
+<li>Fully completed and published 2 Exercism puzzles related to checksum functions and base conversions: Luhn and Hexadecimal</li>
+<li>Drafted, revised, and submitted Project Update Report</li>
+<li>Posted update to personal Github page.</li>
+</ul>
+<b>What do you plan to do this week?</b><br>
+<ul>
+<li>Finish Pointers and References unit in my Udemy course on my own time.</li>
+<li>Main Goal: Finish off Main Goal 1 from my proposal by finishing 3 remaining Exercism learning path exercises related to arrays and vectors (Sieve, Prime Factors, High Scores).</li>
+<li>Stretch Goal: Try to get unblocked on as many remaining learning path Exercises that require OOP as possible (Election Day & Trolls from Week 1-2, Dr. Data from Week 3-4).</li>
+</ul>
+<b>Are there any impediments in your way?</b><br>
+<ul>
+  <li>Object-oriented programming has a steeper learning curve relative to procedural programming than I thought! I finished the unit on classes, but it will take time to internalize, and I'm currently really confused by how to use references correctly with objects.</li>
+</ul>
+<b>Reflection on the process you used last week, how can you make the process work better?</b><br>
+<ul>
+  <li>I think my time allocation is pretty well optimized at this point, but I feel like I could make faster progress if my Udemy course had more practice exercises interspersed with its lectures; I'm having info retention issues. I plan to try mixing in some lectures from Abdul Bari's DSA course next week now that I'm into data structures topics in earnest to see if this helps; it looks like his class offers more exercises.</li>
+</ul>
+</details>
+
 
