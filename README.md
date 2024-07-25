@@ -285,4 +285,32 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 </ul>
 </details>
 
+#### Week 10 (7/22/24-7/28/24)
+<details>
+<br>
+<b>What did you do last week?</b><br>
+<ul>
+  <li>My time was about a 50:50 blend of structured coursework and exercises this week.</li>
+  <li>I got about a quarter of the way through the course material for References that I need for Main Goal 2.</li>
+  <li>Fully completed and published 1 Exercism puzzle related to prime factorization function: Prime Factors.</li>
+  <li>Scoped the last remaining Puzzles for Main Goal 1: Sieve and High Scores. See below for blockers I'm working on.</li>
+  <li>Posted update to personal Github page.</li>
+</ul>
+<b>What do you plan to do this week?</b><br>
+<ul>
+  <li>Finish rest of Pointers and References unit in my Udemy course.</li>
+  <li>Finish last two Main Goal 1 exercises (Sieve, High Scores).</li>
+  <li>Stretch Goal: Same as last week; try to get unblocked on Election Day & Trolls from Week 1-2, Dr. Data from Week 3-4.</li>
+</ul>
+<b>Are there any impediments in your way?</b><br>
+<ul>
+  <li>I expect my progress on to slow down from now until the end of the semester; the last exams and final projects in CSPB 3022 and CSPB 4122 are in full swing, and it's going to be challenging to allocate any discretionary time beyond the required 4h per week without sacrificing performance in my other two classes. Nonetheless, I should be able to complete Main Goal 1.</li>
+  <li>These are the specific technical blockers I'm working on for exercises. For Sieve, I understand the math of the Sieve of Eratosthenes, but I'm not sure how to implement the algorithm to "mark out" multiples of values that have already been tested in my vector. For High Scores, I just need to spend more time familiarizing myself with the C++ algorithms library to pass the tests; it was brand-new to me before accessing this exercise.</li>
+</ul>
+<b>Reflection on the process you used last week, how can you make the process work better?</b><br>
+<ul>
+  <li>My process is well-honed; the chief blocker is finding discretionary hours beyond the core 4 hours/week to plug knowledge gaps when I suddenly discover that I don't know what I don't know (as for the algorithms library this week).</li>
+</ul>
+</details>
+
 
