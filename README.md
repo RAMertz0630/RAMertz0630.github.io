@@ -313,4 +313,31 @@ This summer, I enrolled in a special section of CSPB's Professional Development 
 </ul>
 </details>
 
+#### Week 11 (7/29/24-8/4/24)
+<details>
+  <br>
+  <b>What did you do last week?</b><br>
+  <ul>
+    <li><b>Note:</b> Due to urgent exam and assignment deadlines in CSPB 3022, I've only completed 2 of my 4 required hours for CSPB 3112 for this week as of this evening. The remaining 2 hours will be completed tomorrow afternoon after tonight's standup post deadline. The time allotment and exercise plans described in this post include my plan for tomorrow afternoon, which is to focus on coding exercises to complete Main Goal 1: Sieve and High Scores.</li>
+    <li>My time was about a 75:25 blend of structured coursework and exercises this week.</li>
+    <li>I finished the remaining course material on References that I need for Main Goal 2.</li>
+    <li>Posted update to personal Github page.</li>
+  </ul>
+  <b>What do you plan to do this week?</b><br>
+  <ul>
+    <li>Deprioritize coursework to devote as much time as possible to remaining unfinished Puzzles in Main Goals 1 and 2.</li>
+    <li>Main Goal: Promoted from stretch goal last 2 weeks; try to get unblocked on Election Day & Trolls from Week 1-2, Dr. Data from Week 3-4.</li>
+    <li>Stretch Goal: Complete as many remaining Main Goal 2 exercises related to Enumerations, Switch Statements, Headers, and Functions as possible.</li>
+    <li>Required course milestone: Draft final report.</li>
+  </ul>
+  <b>Are there any impediments in your way?</b><br>
+  <ul>
+    <li>Same blocker as last week; finals crunch time is in full swing and finding discretionary time beyond the mandatory 4h block dedicated to this class is very difficult.</li>
+  </ul>
+  <b>Reflection on the process you used last week, how can you make the process work better?</b><br>
+  <ul>
+    <li>Being aware of my tendency to go off on curiosity-driven tangents and maintaining top-down focus on the "need-to-haves" over the "nice-to-haves" is essential to staying productive during crunch times like this without burning the candle at both ends.</li>
+  </ul>
+</details>
+
 
