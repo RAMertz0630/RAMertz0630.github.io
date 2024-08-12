@@ -46,6 +46,8 @@ I'm a plant biologist with broad experience in molecular genetics, biochemistry,
 
 This summer, I enrolled in a special section of CSPB's Professional Development course focused on developing a project to build profiency with C++ in preparation to take Data Structures and Algorithms in the fall. As part of this course, I tracked goals and progress for weekly standup meetings below:
 
+As of 8/12/24, this course is complete. You can find my final project update report [here](https://github.com/RAMertz0630/CSPB_3112/blob/main/Beginning_CPP_Course/Exercises/Final%20Project%20Report_rame4494.pdf), within a repo containing my solutions to Exercism [problems](https://github.com/RAMertz0630/CSPB_3112) I reference below in my weekly updates.
+
 #### Week 1 (5/20/24-5/26/24)
 
 <details>
